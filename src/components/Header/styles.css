@@ -1,0 +1,21 @@
+nav {
+  display: flex;
+  margin: 40px 80px;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul a {
+  color: #636363;
+  text-decoration: none;
+}
+
+ul li {
+  margin-left: 25px;
+}
